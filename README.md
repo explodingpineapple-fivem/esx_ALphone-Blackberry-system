@@ -1,5 +1,7 @@
 # esx_ALphone-Blackberry-system
 
+## Requires esx_voice
+
 There's no one supporting this resource, you're on your own
 
 ## Installation
